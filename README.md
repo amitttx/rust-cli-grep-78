@@ -1,2 +1,4 @@
-# rust-cli-grep-78
+# Rust Cli Grep 78
+
 Simple grep tool to filter line patterns in Rust.
+
